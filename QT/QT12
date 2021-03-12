@@ -1,0 +1,65 @@
+## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
+---
+
+### 1. Giao diện cơ bản:
+![giao diện](https://maas.vn/wp-content/uploads/2020/06/N%C3%BAt-save-1.png)
+![giao diện 2](https://maas.vn/wp-content/uploads/2020/06/Th%C3%AAm-ti%C3%AAu-%C4%91%E1%BB%81-1.png)
+
+### 2. Tìm kiếm nâng cao:
+
+Bao gồm các tính năng:
+- Search với toàn bộ từ khóa
+- Search với chính xác cụm từ khóa
+- Search với ít nhất một trong các từ khóa
+- Không có từ khóa đó
+- Từ khóa xuất hiện ở (tên tiêu đề hoặc bất kì mục trong bài viết)
+- Search dựa theo tác giả
+- Search dựa vào xuất bản trong khu vực nào
+- Search trong mốc năm thời gian
+
+### 3. My Library
+- Lưu trữ những tài liệu cần lưu
+- Xóa tài liệu nếu cảm thấy không cần thiết nữa
+- Edit tên tác giả, tác phẩm (không khuyến khích)
+- Export để xuất citation tác giả của bài, bao gồm file BibTex, EndNote, RefMan và CSV
+- Label để lưu tài liệu với từng mục tạo riêng
+
+### 4. Thêm bài viết
+- B1: Cần đăng nhập tài khoản
+- B2: Nhập profile bao gồm Tên, chi nhánh, email, lĩnh vực, homepage (nếu có)
+- B3: Chọn add ở mục Articles
+ Thêm bài viết thủ công: Add article manually hoặc add article groups
+
+### 5. Xóa bài viết
+Google Scholar sử dụng mô hình thống kê để cố gắng cho biết các tác giả khác nhau. Tuy nhiên, quy trình tự động như vậy thường không chính xác. Cách tốt nhất để khắc phục vấn đề này là xem qua các bài viết trong tiểu sử của mình và xóa những bài viết do những người khác viết.
+
+Để xóa bài viết, chọn bài viết muốn xóa, sau đó, chọn tùy chọn "Delete".
+
+### 6. Sửa bài viết
+Nhấp vào tiêu đề bài viết, sau đó nhấp vào nút "Edit". Khi hoàn tất thay đổi, nhấp vào nút "Save".
+
+### 7. Mẹo sử dụng Google Scholar
+### 7.1 Mẹo tìm kiếm
+Chèn năm: Nếu bạn muốn tìm tài liệu xuất bản trong 1 năm cụ thể, hãy chèn năm vào kế keyword hoặc trích dẫn nguyên văn.
+
+
+Sử dụng keyword thay vì câu: Nhiều tác phẩm liên quan sẽ được hiển thị hơn khi tìm kiếm bằng keyword thay vì câu
+
+Tìm kiếm cụ thể với trích dẫn nguyên văn: Hãy sử dụng dấu ngoặc kép xung quanh trích dẫn nguyên văn. Nếu không, Google Scholar sẽ không hiểu việc bạn đang muốn tìm tài liệu chứa đúng trích dẫn này. Thay vào đó, Google Scholar sẽ hiển thị tài liệu chứa các các từ trong trích dẫn nguyên văn này mà không nhất thiết phải ở cạnh nhau.
+
+Google Scholar không nhận diện sự khác biệt giữa chứ viết hoa và viết thường. Việc tìm kiếm “tourism” và “Tourism” không có gì khác biệt.
+
+### 7.2 Tối ưu hóa tìm kiếm
+- Dấu "" (vd: "covid19 and life")
+- Loại trừ (vd: covid19 -life)
+- Thêm từ khóa (vd: covid19 + life)
+- Tìm OR (vd: covid19 or life)
+- Tìm title chứa từ khóa (vd: covid19: life)
+- Tìm kiếm theo tên tác giả (vd: author: Ian Goodfellow)
+
+### 8. Các bước cần thiết dể đọc tài liệu hiệu quả
+
+- Đặt vấn đề để xác định mục tiêu hướng tới 
+- Chú ý phần khuyến nghị bởi một số tài liệu không thể áp dụng cho Việt Nam
+- Đối tượng và phương pháp nghiên cứu cũng nên đọc để nắm được quá trình thực hiện cùng sự kiểm nghiệm của bài báo
+- Đọc tài liệu tốt nhất có thể 10 phút, để nắm nội dung cơ bản hay điều đề tài hướng tới, tránh đọc lướt
